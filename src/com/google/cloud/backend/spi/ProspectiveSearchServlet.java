@@ -124,7 +124,7 @@ public class ProspectiveSearchServlet extends HttpServlet {
 					.addData("data.message", (String) matchedEntity.getProperty("message"))
 					.addData("data.updatedBy", (String) matchedEntity.getProperty("_updatedBy"))
 					.addData("data.owner", (String) matchedEntity.getProperty("_owner"))
-					.addData("data.kindName", (String) matchedEntity.getProperty("_kindName"))
+					.addData("data.sound", "new_message")
 					//extra data.<key> elements can be added here
 					.build();
     	  
