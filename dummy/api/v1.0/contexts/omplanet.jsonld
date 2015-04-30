@@ -1,0 +1,11 @@
+{
+  "@context":
+  {
+    "omplanet": "http://omplanet.net/api/v1.0/"
+	"Thing": "omplanet:thing",
+	"Person": "omplanet:thing/person",
+	"Group": "omplanet:thing/group",
+	"Community": "omplanet:thing/community",
+	"Place": "omplanet:thing/place"
+  }
+}

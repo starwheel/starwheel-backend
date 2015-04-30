@@ -25,3 +25,8 @@ war/WEB-INF/appengine-generated/
 
 # Windows thumbnail db
 Thumbs.db
+
+# Android Studio project files
+#.idea
+.idea/workspace.xml
+
